@@ -1,1 +1,5 @@
+---
+tags: [test]
+---
+
 #Hello Blog!

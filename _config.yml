@@ -18,12 +18,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "메모장"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Version 1.0 # site tagline that appears below site title in masthead
 name                     : "LEE"
 description              : "구축중입니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ech913/ech913.github.io"
+repository               : "https://github.com/ech913/ech913.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -102,9 +102,9 @@ analytics:
 # Site Author
 author:
   name             : "ech913"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/lions.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "hello world!"
-  location         : #"Somewhere"
+  location         : korea, south
   email            :
   links:
     - label: "Email"
