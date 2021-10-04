@@ -4,4 +4,5 @@ layout: single
 permalink: /about/
 ---
 
-#about
+안녕하세요!
+![HeyGuys](/assets/images/heyguys.png)

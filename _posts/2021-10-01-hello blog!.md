@@ -1,5 +1,5 @@
 ---
-tags: [test]
+tags: [test,"asdf"]
 ---
 
 #Hello Blog!
