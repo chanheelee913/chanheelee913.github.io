@@ -1,7 +1,7 @@
 ---
 title: year-Archive
 layout: archive
-permalink: /year-Archive/
+permalink: /year-archive/
 ---
 
 testing!

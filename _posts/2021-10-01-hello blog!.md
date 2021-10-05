@@ -1,4 +1,5 @@
 ---
+title: hello blog!
 tags: [test,"asdf"]
 ---
 
