@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+#해당 파일은 변경사항이 발생하면 다시 빌드를 해야함
+
+
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
@@ -14,7 +17,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Site Settings
+# Site Settings 사이트 설정
 locale                   : "ko-KR"
 title                    : "메모장"
 title_separator          : "-"
@@ -99,10 +102,10 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-# Site Author
+# Site Author 사이트 저자 소개 관련
 author:
   name             : "ech913"
-  avatar           : /assets/images/lions.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/lions.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "hello world!"
   location         : korea, south
   email            :
@@ -126,7 +129,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-# Site Footer
+# Site Footer html footer에 들어가는 내용 정보들
 footer:
   links:
     - label: "Twitter"
@@ -213,7 +216,7 @@ sass:
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-# Outputting
+# Outputting 블로그 표시 방법
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
@@ -286,3 +289,6 @@ defaults:
       comments: # true
       share: false
       related: false
+
+
+future: true
