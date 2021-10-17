@@ -105,7 +105,7 @@ analytics:
 # Site Author 사이트 저자 소개 관련
 author:
   name             : "ech913"
-  avatar           : "/assets/images/lions.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "./assets/images/blue.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "hello world!"
   location         : korea, south
   email            :
