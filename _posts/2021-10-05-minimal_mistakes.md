@@ -1,6 +1,7 @@
 ---
 title: minimal_mistakes 구조
-tag: [blog]
+excerpt: 블로그 구조 메모
+category: "blog"
 ---
 
 
