@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 안녕하세요!
-![HeyGuys](/assets/images/heyguys.png)
+![HeyGuys](/assets/images/heyguys.png)  

@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "ech913"
   avatar           : "/assets/images/lions.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "hello world!"
+  bio              : "전용 메모장, 이것저것 건드리는 중"
   location         : korea, south
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -286,10 +286,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true # true
       share: false
       related: false
+      show_date: true
 
-
+date_format: "%Y-%m-%d"
 future: true
