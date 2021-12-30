@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "ech913"
   avatar           : "/assets/images/lions.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "전용 메모장, 이것저것 건드리는 중"
+  bio              : "전용 메모장, 틀린 내용 또는 부족한 내용 지적해주시면 감사하겠습니다"
   location         : korea, south
   email            : 
   links:
