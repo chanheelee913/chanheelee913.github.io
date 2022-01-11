@@ -2,9 +2,10 @@
 title: 버블정렬
 excerpt: Doit 자료구조와 알고리즘 입문_6장
 category: Data_Structure
+last_modified_at: 2022-01-07
 ---
 
-## 정의
+## 개념
 
 앞뒤로 이웃한 원소끼리 대소를 비교하여 위치를 교환하는 정렬방법이다.
 
@@ -15,7 +16,7 @@ category: Data_Structure
 ~~~python
 a = [6,4,3,7,1,9,8]  #정렬되지 않은 입력값
 
-n=len(a)    #배열의 길이
+n=len(a)    #배열의 길이 
 
 for i in range(0,n-1):  #pass
     for j in range(n-1,i,-1):
@@ -188,4 +189,4 @@ while left < right:
         right=last
 ~~~
 
-칵테일 정렬의 시간복잡도 또한 **O(n^2)**이다.  
+칵테일 정렬의 시간복잡도 또한 **O(n^2)**이다.
