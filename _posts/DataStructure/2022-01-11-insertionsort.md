@@ -1,5 +1,5 @@
 ---
-title: 삽입정렬
+title: 단순 삽입 정렬
 excerpt: Doit 자료구조와 알고리즘 입문_6장
 category: Data_Structure
 ---
@@ -23,6 +23,11 @@ for i in range(1,n):    #배열의 두번째 원소부터 시작
         j-=1
     a[j]=tmp
 ~~~
+
+1.
+![삽입정렬1](/assets/images/pages/2022-01-11-insertion/insertion1.png)
+2.
+![삽입정렬2](/assets/images/pages/2022-01-11-insertion/insertion2.png)
 
 ## 장단점
 
