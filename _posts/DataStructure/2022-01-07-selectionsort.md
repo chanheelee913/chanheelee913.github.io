@@ -25,6 +25,8 @@ for i in range(n-1):
 
 프로그램 추적
 ![선택정렬이미지](/assets/images/pages/2022-01-07-selection/selection.jpg)
+일부분
+![선택정렬2이미지](/assets/images/pages/2022-01-07-selection/selection02.png)
 
 ## 시간복잡도
 
