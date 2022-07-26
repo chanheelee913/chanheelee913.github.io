@@ -26,7 +26,7 @@ name                     : "LEE"
 description              : "구축중입니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ech913/ech913.github.io" #깃허브 저장소 이름
+repository               : "chanheelee913/chanheelee913.github.io" #깃허브 저장소 이름
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -35,7 +35,7 @@ words_per_minute         : 200
 comments:
   provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : ech913-github-io # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : chanheelee913-github-io # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author 사이트 저자 소개 관련
 author:
-  name             : "ech913"
+  name             : "chanheelee913"
   avatar           : "/assets/images/lions.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "전용 메모장, 틀린 내용 또는 부족한 내용 지적해주시면 감사하겠습니다"
   location         : korea, south
