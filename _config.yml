@@ -295,3 +295,4 @@ defaults:
       toc_sticky: true
 date_format: "%Y-%m-%d"
 future: true
+theme: jekyll-theme-cayman
